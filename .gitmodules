@@ -1,0 +1,3 @@
+[submodule "bean-apple-sdk"]
+	path = bean-apple-sdk
+	url = git@bitbucket.org:punchthroughdesign/bean-apple-sdk.git
